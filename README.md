@@ -13,20 +13,17 @@ A simple HTML/CSS project showcasing an employee portal for a company like Dmart
 ## Technologies Used
 
 - HTML5
-- CSS3
+- CSS3(inline styling)
 
 ## Files
 
-- index.html: The main HTML file containing the structure and content of the employee portal
-- styles.css: The CSS file containing the styles and layout for the employee portal (inline styles are used in this project)
+-employeeportal.html: The main HTML file containing the structure, content, and inline styles for the employee portal
+
 
 ## Author
 Bhakti Malwankar
 
 ## Repository
 
-(link unavailable)[Your GitHub Username]/Employee-Portal-HTML-CSS
+Bhakti-Malwankar/Employee-Portal-HTML-CSS
 
-Note: Replace [Your Name] and [Your GitHub Username] with your actual information.
-
-This format is clean, easy to read, and follows the standard conventions for a GitHub README file.
