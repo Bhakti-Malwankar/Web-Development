@@ -23,8 +23,3 @@ A simple HTML/CSS project showcasing an employee portal for a company like Dmart
 
 ## Author
 Bhakti Malwankar
-
-## Repository
-
-Bhakti-Malwankar/Employee-Portal-HTML-CSS
-
